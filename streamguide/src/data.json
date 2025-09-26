@@ -1,0 +1,30 @@
+[
+  {
+    "title": "League of Legends Championship",
+    "platform": "Twitch",
+    "link": "https://twitch.tv/riotgames",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-320x180.jpg",
+    "category": "Gaming"
+  },
+  {
+    "title": "Live Music Concert",
+    "platform": "YouTube",
+    "link": "https://youtube.com/live/music123",
+    "thumbnail": "https://i.ytimg.com/vi/aqz-KE-bpKQ/hqdefault.jpg",
+    "category": "Music"
+  },
+  {
+    "title": "CS:GO Tournament",
+    "platform": "Kick",
+    "link": "https://kick.com/csgo-tourney",
+    "thumbnail": "https://dummyimage.com/320x180/000/fff&text=CS:GO+Live",
+    "category": "Gaming"
+  },
+  {
+    "title": "Football Match Live",
+    "platform": "YouTube",
+    "link": "https://youtube.com/live/football456",
+    "thumbnail": "https://dummyimage.com/320x180/222/fff&text=Football+Live",
+    "category": "Sports"
+  }
+]
